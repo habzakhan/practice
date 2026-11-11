@@ -1,2 +1,2 @@
-# E-PROJECT-HAH
+# PRACTICE
 My E-Project website repository.
